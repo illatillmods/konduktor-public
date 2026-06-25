@@ -1,4 +1,4 @@
-Copyright (c) 2026 illatillmods
+Copyright (c) 2026 Bruket - William Wigertz Wåhlström
 All rights reserved.
 
 This repository is provided for public review, product transparency, and project updates
