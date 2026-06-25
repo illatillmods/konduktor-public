@@ -1,0 +1,9 @@
+*
+!.gitignore
+!README.md
+!NOTICE.md
+!SECURITY.md
+!FAQ.md
+!ROADMAP.md
+!docs/
+!docs/**
